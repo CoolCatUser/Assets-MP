@@ -1,0 +1,15 @@
+Blackhole script
+
+Game: 
+https://www.roblox.com/de/games/98068635820963/Raise-a-DRAGON-2-Player-Obby#!/game-instances
+
+Script: 
+loadstring(game:HttpGet("https://pastebin.com/raw/Y9nKiWGe"))()
+
+Crazy trolling gui
+
+Game:
+ https://www.roblox.com/games/136888805396223/W2-Obby-But-Youre-Cursed
+
+Script:
+loadstring(game:HttpGet("https://pastebin.com/raw/vgzE2z2d"))()
