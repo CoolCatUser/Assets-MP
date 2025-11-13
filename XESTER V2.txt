@@ -1,13 +1,4 @@
---Unchained and unbound, dark desires awoken, dark doctrines.
-game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "ban_notification";
-	Text = "This script is converted by Emlopam";
-	Icon = ""
-Duration = 6;
 
-if not isfile("idk.mp3") then
-writefile("idk.mp3", game:HttpGet("https://github.com/ian49972/smth/raw/refs/heads/main/idk.mp3"))
-end
 
 local Object = game:GetObjects("rbxassetid://6099241563")[1]  
 Object.Parent = game.Workspace  
